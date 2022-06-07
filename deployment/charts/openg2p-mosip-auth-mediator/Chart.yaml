@@ -1,0 +1,18 @@
+apiVersion: v2
+name: openg2p-mosip-auth-mediator
+description: A Helm chart for openg2p-mosip auth mediator.
+type: application
+version: 0.1.0
+appVersion: ""
+home: https://openg2p.org
+dependencies:
+- name: common
+  repository: https://charts.bitnami.com/bitnami
+  tags:
+   - bitnami-common
+  version: 1.x.x
+keywords:
+  - openg2p-mosip-auth-mediator
+  - openg2p
+  - mosip
+  - mosip-mediator
