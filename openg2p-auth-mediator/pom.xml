@@ -16,7 +16,7 @@
 		<logback.logstash.version>6.4</logback.logstash.version>
 		<lombok.version>1.18.8</lombok.version>
 		<bouncycastle.version>1.66</bouncycastle.version>
-		<jose4j.version>0.6.5</jose4j.version>
+		<jose4j.version>0.9.3</jose4j.version>
 	</properties>
 
 	<dependencies>
